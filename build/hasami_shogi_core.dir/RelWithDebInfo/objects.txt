@@ -1,0 +1,4 @@
+C:/курсач/HasamiShogi/build/hasami_shogi_core.dir/RelWithDebInfo/board.obj
+C:/курсач/HasamiShogi/build/hasami_shogi_core.dir/RelWithDebInfo/game.obj
+C:/курсач/HasamiShogi/build/hasami_shogi_core.dir/RelWithDebInfo/move.obj
+C:/курсач/HasamiShogi/build/hasami_shogi_core.dir/RelWithDebInfo/ai.obj

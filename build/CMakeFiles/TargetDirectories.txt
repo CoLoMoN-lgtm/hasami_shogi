@@ -1,0 +1,4 @@
+C:/курсач/HasamiShogi/build/CMakeFiles/hasami_shogi_core.dir
+C:/курсач/HasamiShogi/build/CMakeFiles/hasami_shogi_python.dir
+C:/курсач/HasamiShogi/build/CMakeFiles/ALL_BUILD.dir
+C:/курсач/HasamiShogi/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,123 @@
+EXPORTS 
+	??_R0?AV?$_Iosb@H@std@@@8 	 DATA
+	??_R0?AV?$basic_ios@DU?$char_traits@D@std@@@std@@@8 	 DATA
+	??_R0?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@@8 	 DATA
+	??_R0?AV?$basic_istream@DU?$char_traits@D@std@@@std@@@8 	 DATA
+	??_R0?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@@8 	 DATA
+	??_R0?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@@8 	 DATA
+	??_R0?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@8 	 DATA
+	??_R0?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@8 	 DATA
+	??_R0?AVbad_alloc@std@@@8 	 DATA
+	??_R0?AVbad_array_new_length@std@@@8 	 DATA
+	??_R0?AVexception@std@@@8 	 DATA
+	??_R0?AVios_base@std@@@8 	 DATA
+	??_R0?AVlogic_error@std@@@8 	 DATA
+	??_R0?AVout_of_range@std@@@8 	 DATA
+	??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z
+	??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z
+	??$_Construct_n@AEBQEAV?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@AEBQEAV12@@?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@AEAAX_KAEBQEAV?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@1@1@Z
+	??$_Copy_memmove@PEAU?$pair@HH@std@@PEAU12@@std@@YAPEAU?$pair@HH@0@PEAU10@00@Z
+	??$_Copy_memmove@PEAUMove@hasami_shogi@@PEAU12@@std@@YAPEAUMove@hasami_shogi@@PEAU12@00@Z
+	??$_Copy_memmove@PEAW4Piece@Board@hasami_shogi@@PEAW4123@@std@@YAPEAW4Piece@Board@hasami_shogi@@PEAW4123@00@Z
+	??$_Destroy_range@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@std@@@std@@YAXPEAV?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@0@QEAV10@AEAV?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@0@@Z
+	??$_Emplace_reallocate@AEAHAEAH@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAAPEAU?$pair@HH@1@QEAU21@AEAH1@Z
+	??$_Emplace_reallocate@AEAHAEAHAEAHAEAH@?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@AEAAPEAUMove@hasami_shogi@@QEAU23@AEAH111@Z
+	??$_Emplace_reallocate@AEAHAEBH@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAAPEAU?$pair@HH@1@QEAU21@AEAHAEBH@Z
+	??$_Emplace_reallocate@AEBHAEAH@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAAPEAU?$pair@HH@1@QEAU21@AEBHAEAH@Z
+	??$_Emplace_reallocate@AEBUMove@hasami_shogi@@@?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@AEAAPEAUMove@hasami_shogi@@QEAU23@AEBU23@@Z
+	??$_Emplace_reallocate@U?$pair@HH@std@@@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAAPEAU?$pair@HH@1@QEAU21@$$QEAU21@@Z
+	??$_Fill_zero_memset@PEAW4Piece@Board@hasami_shogi@@@std@@YAXPEAW4Piece@Board@hasami_shogi@@_K@Z
+	??$_Is_all_bits_zero@W4Piece@Board@hasami_shogi@@@std@@YA_NAEBW4Piece@Board@hasami_shogi@@@Z
+	??0AI@hasami_shogi@@QEAA@AEBVBoard@1@W4Piece@21@@Z
+	??0Board@hasami_shogi@@QEAA@XZ
+	??0Game@hasami_shogi@@QEAA@W4GameMode@01@@Z
+	??0bad_alloc@std@@QEAA@AEBV01@@Z
+	??0bad_array_new_length@std@@QEAA@AEBV01@@Z
+	??0bad_array_new_length@std@@QEAA@XZ
+	??0exception@std@@QEAA@AEBV01@@Z
+	??0logic_error@std@@QEAA@AEBV01@@Z
+	??0out_of_range@std@@QEAA@AEBV01@@Z
+	??0out_of_range@std@@QEAA@PEBD@Z
+	??1?$_Tidy_guard@V?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@@std@@QEAA@XZ
+	??1?$_Uninitialized_backout_al@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@std@@@std@@QEAA@XZ
+	??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@XZ
+	??1?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAA@XZ
+	??1?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAA@XZ
+	??1?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@QEAA@XZ
+	??1?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@QEAA@XZ
+	??1?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@QEAA@XZ
+	??1Board@hasami_shogi@@QEAA@XZ
+	??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+	??1bad_array_new_length@std@@UEAA@XZ
+	??1exception@std@@UEAA@XZ
+	??1out_of_range@std@@UEAA@XZ
+	??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+	??_7?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@6B@
+	??_7?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@6B@
+	??_7bad_alloc@std@@6B@
+	??_7bad_array_new_length@std@@6B@
+	??_7exception@std@@6B@
+	??_7logic_error@std@@6B@
+	??_7out_of_range@std@@6B@
+	??_D?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAAXXZ
+	?_Buy_nonzero@?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@AEAAX_K@Z
+	?_Buy_nonzero@?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@AEAAX_K@Z
+	?_Change_array@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAAXQEAU?$pair@HH@2@_K1@Z
+	?_Throw_bad_array_new_length@std@@YAXXZ
+	?_Tidy@?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@AEAAXXZ
+	?_Tidy@?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@AEAAXXZ
+	?_Xlen_string@std@@YAXXZ
+	?_Xlength@?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@CAXXZ
+	?_Xlength@?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@CAXXZ
+	?_Xlength@?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@CAXXZ
+	?_Xlength@?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@CAXXZ
+	?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAAAEAV12@QEBD_K@Z
+	?checkCaptures@Board@hasami_shogi@@QEAA_NHHW4Piece@12@@Z
+	?checkHorizontalCapture@Board@hasami_shogi@@AEAA_NHHW4Piece@12@@Z
+	?checkVerticalCapture@Board@hasami_shogi@@AEAA_NHHW4Piece@12@@Z
+	?countPieces@Game@hasami_shogi@@AEBAHW4Piece@Board@2@@Z
+	?deallocate@?$allocator@D@std@@QEAAXQEAD_K@Z
+	?deallocate@?$allocator@U?$pair@HH@std@@@std@@QEAAXQEAU?$pair@HH@2@_K@Z
+	?deallocate@?$allocator@UMove@hasami_shogi@@@std@@QEAAXQEAUMove@hasami_shogi@@_K@Z
+	?evaluatePosition@AI@hasami_shogi@@AEBAHAEBVBoard@2@@Z
+	?getAIMove@Game@hasami_shogi@@QEBA?AUMove@2@XZ
+	?getAllPossibleMoves@AI@hasami_shogi@@AEBA?AV?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@AEBVBoard@2@W4Piece@52@@Z
+	?getBestMove@AI@hasami_shogi@@QEBA?AUMove@2@H@Z
+	?getBoard@Game@hasami_shogi@@QEBAAEBVBoard@2@XZ
+	?getBoardState@Board@hasami_shogi@@QEBA?AV?$vector@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@V?$allocator@V?$vector@W4Piece@Board@hasami_shogi@@V?$allocator@W4Piece@Board@hasami_shogi@@@std@@@std@@@2@@std@@XZ
+	?getCurrentPlayer@Game@hasami_shogi@@QEBA?AW4Piece@Board@2@XZ
+	?getDistance@Move@hasami_shogi@@QEBAHXZ
+	?getGameState@Game@hasami_shogi@@QEBA?AW4GameState@12@XZ
+	?getGameStateString@Game@hasami_shogi@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+	?getMobility@AI@hasami_shogi@@AEBAHAEBVBoard@2@W4Piece@32@@Z
+	?getMoveHistory@Game@hasami_shogi@@QEBAAEBV?$vector@UMove@hasami_shogi@@V?$allocator@UMove@hasami_shogi@@@std@@@std@@XZ
+	?getPath@Move@hasami_shogi@@QEBA?AV?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@XZ
+	?getPiece@Board@hasami_shogi@@QEBA?AW4Piece@12@HH@Z
+	?getPieceDifference@AI@hasami_shogi@@AEBAHAEBVBoard@2@@Z
+	?getPositionalScore@AI@hasami_shogi@@AEBAHAEBVBoard@2@@Z
+	?getValidMoves@Board@hasami_shogi@@QEBA?AV?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@HH@Z
+	?isEmpty@Board@hasami_shogi@@QEBA_NHH@Z
+	?isHorizontal@Move@hasami_shogi@@QEBA_NXZ
+	?isInBounds@Board@hasami_shogi@@AEBA_NHH@Z
+	?isPathClear@Board@hasami_shogi@@AEBA_NHHHH@Z
+	?isValid@Move@hasami_shogi@@QEBA_NXZ
+	?isValidMove@Board@hasami_shogi@@QEBA_NHHHHW4Piece@12@@Z
+	?isValidPosition@Board@hasami_shogi@@QEBA_NHH@Z
+	?isVertical@Move@hasami_shogi@@QEBA_NXZ
+	?makeMove@AI@hasami_shogi@@AEBA_NAEAVBoard@2@AEBUMove@2@W4Piece@32@@Z
+	?makeMove@Game@hasami_shogi@@QEAA_NAEBUMove@2@@Z
+	?minimax@AI@hasami_shogi@@AEBAHVBoard@2@HHH_N@Z
+	?overflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHH@Z
+	?pbackfail@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHH@Z
+	?reset@Game@hasami_shogi@@QEAAXXZ
+	?resetBoard@Board@hasami_shogi@@QEAAXXZ
+	?seekoff@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAA?AV?$fpos@U_Mbstatet@@@2@_JHH@Z
+	?seekpos@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAA?AV?$fpos@U_Mbstatet@@@2@V32@H@Z
+	?setPiece@Board@hasami_shogi@@QEAA_NHHW4Piece@12@@Z
+	?switchPlayer@Game@hasami_shogi@@AEAAXXZ
+	?toString@Board@hasami_shogi@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+	?toString@Move@hasami_shogi@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+	?underflow@?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MEAAHXZ
+	?undoLastMove@Game@hasami_shogi@@QEAA_NXZ
+	?updateGameState@Game@hasami_shogi@@AEAAXXZ
+	?what@exception@std@@UEBAPEBDXZ
